@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Shared"
   ],
-  "SelectedNode": "\\Y:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado",
+  "SelectedNode": "\\Views\\Home\\Obitos.cshtml",
   "PreviewInSolutionExplorer": false
 }

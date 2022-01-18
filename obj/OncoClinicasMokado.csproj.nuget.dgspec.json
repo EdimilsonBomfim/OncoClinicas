@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\OncoClinicasMokado.csproj": {}
+    "C:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\OncoClinicasMokado.csproj": {}
   },
   "projects": {
-    "Y:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\OncoClinicasMokado.csproj": {
+    "C:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\OncoClinicasMokado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\OncoClinicasMokado.csproj",
+        "projectUniqueName": "C:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\OncoClinicasMokado.csproj",
         "projectName": "OncoClinicasMokado",
-        "projectPath": "Y:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\OncoClinicasMokado.csproj",
+        "projectPath": "C:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\OncoClinicasMokado.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "Y:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\obj\\",
+        "outputPath": "C:\\DEV\\SIS\\EMPRESAS\\MG_MOKADA\\OncoClinicasMokado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
